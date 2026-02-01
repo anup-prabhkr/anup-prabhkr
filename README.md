@@ -23,6 +23,3 @@
 ## 📫 Contact Me
 - Email:anupprabhakar01@gmail.com
    
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Git](https://img.shields.io/badge/Git-orange)
